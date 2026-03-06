@@ -1,0 +1,10 @@
+POST http://localhost:3000/course
+Content-Type: application/json
+
+{
+    "name": "Introduction to Web Development",
+    "instructor": "john.doe",
+    "age": 20,
+    "email": "john.doe@example.com"
+    
+}

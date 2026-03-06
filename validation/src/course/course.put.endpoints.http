@@ -1,0 +1,9 @@
+PUT http://localhost:3000/course/1
+Content-Type: application/json
+
+{
+    "name": "Introduction to Web Development",
+    "instructor": "dave.smith",
+    "age": 30,
+    "email": "dave.smith@example.com"
+}
