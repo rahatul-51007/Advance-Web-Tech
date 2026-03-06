@@ -1,0 +1,7 @@
+PUT http://localhost:3000/course/2
+Content-Type: application/json
+
+{
+    "name": "Advanced Web Technologies",
+    "instructor": "Dr. Jane Smith"
+}
